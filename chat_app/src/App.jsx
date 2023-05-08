@@ -6,8 +6,10 @@ import "./index.css"
 const App = () => {
   return (
     <div>
+      <div className="background">
       <Logo />
       <Form />
+      </div>
     </div>
   );
 }
