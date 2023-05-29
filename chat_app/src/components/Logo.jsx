@@ -7,7 +7,7 @@ export default function Logo() {
     <>
       <div className="logo-holder">
         <div className="logo">
-          <RiChatSmile3Line />
+          <RiChatSmile3Line className='logo-size' />
         </div>
       </div>
       <div className="title">ChatX</div>
