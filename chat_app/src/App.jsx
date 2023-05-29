@@ -7,7 +7,6 @@ const App = () => {
   return (
 
         <div>
-          {/* <Route path="/login">{user?<Redirect to="/" />:<Login />}</Route> */}
           <Logo />
           <Form />
         </div>
